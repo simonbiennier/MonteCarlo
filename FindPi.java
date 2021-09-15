@@ -3,7 +3,6 @@
  * Java MonteCarlo
  *
  * @author Simon Biennier
- * @ID 1710028
  * @description A program to estimate Pi
  *
  **/
